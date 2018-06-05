@@ -1,0 +1,63 @@
+/* background and fonts*/
+
+body{
+	background-color: rgb(200,200,200)
+	color: rgb(40,40,40); 
+	font-family: 'Roboto', sans-serif;;
+	margin:0px;
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+}
+
+a{
+	text-decoration: none;
+	color: rgb(40,40,40); 
+}
+
+a:hover{
+	color: #7261A3;
+}
+
+
+/* block */
+#header{
+	background-image: url('https://unsplash.it/1000/500?random');
+	background-size:cover;
+	color: white;
+	text-align: center;
+	padding:150px;
+	text-shadow: 1px 1px 5px black;
+}
+
+
+#footer{
+	background-color: #0A5370;
+	padding: 20px;
+	text-align: center;
+}
+
+#footer a{
+	color: lightgray;
+	font-size:15px;
+}
+
+#footer a:hover{
+	color: white;
+}
+
+.contents{
+	text-align:center;
+	padding:40px;
+}
+
+
+
+
